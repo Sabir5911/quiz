@@ -1,0 +1,5 @@
+2  is a even number
+3 is a prime number
+4  is a even number
+1 is a prime number
+-4  is a even number
